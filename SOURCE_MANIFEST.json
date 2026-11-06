@@ -1,0 +1,67 @@
+{
+  "generatedAtUtc": "2026-11-06T05:54:54.040Z",
+  "repository": "heisto-sdk",
+  "scope": "allowlisted source/public evidence; no original Git history",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 146,
+      "sha256": "9c45ec79cbc90c774902ddd00ef1188669ef93ad33df6ca2658c39cba93d5b94"
+    },
+    {
+      "path": ".npmrc",
+      "bytes": 25,
+      "sha256": "5f947ee7a93b78e2d3131807d3f9b355b5bb237b9a88b6909113f4a3fb6de740"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 516,
+      "sha256": "0fe95abd80d3181e213903d18cbd8baf6ad3fcd4d50db9792afbaa7b0dca9bb4"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1076,
+      "sha256": "2b2dc5883591645bbc2b3344315e13c3563d3de26a59757a624567d0e9885a4a"
+    },
+    {
+      "path": "NOTICE",
+      "bytes": 275,
+      "sha256": "36a26f7e3bc712ecaf3c8965dc0d5a523b5c8ac1bbc160c89e6a6097e82507d9"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2434,
+      "sha256": "8fae2f2690fe3173e6f07e527f9f888455af2bdc158c0a7b1c0bb3dccf735f4d"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 734,
+      "sha256": "66cb0d8fb12233dd439055d05c98dff928e231ab57892b66147d6acc21482c2c"
+    },
+    {
+      "path": "package.json",
+      "bytes": 931,
+      "sha256": "0cb9d95aaa1e8e719d4ee9963876ce71c35d41a8dca672d8fd748ca9d85a2c91"
+    },
+    {
+      "path": "pnpm-lock.yaml",
+      "bytes": 28107,
+      "sha256": "cfa0689066c741c7b043a516065c1fc4a6c60b181dcdedce5acd65041cc3cfd2"
+    },
+    {
+      "path": "src/index.ts",
+      "bytes": 10535,
+      "sha256": "f15579ca1cbfca5156733735c4443aa598ba18f7f896201813e2b201a18766c4"
+    },
+    {
+      "path": "test/sdk.test.ts",
+      "bytes": 4401,
+      "sha256": "4f5009862d02c66c3778201f9b780c569680702d906a274e9e440d1a42392b3f"
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 297,
+      "sha256": "149f86bace55ffbb64b1f0c35f5047bf6b3e387d33691e189fbc90f570f27d40"
+    }
+  ]
+}
